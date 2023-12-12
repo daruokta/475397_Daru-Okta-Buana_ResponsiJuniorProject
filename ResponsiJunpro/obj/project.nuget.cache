@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "edIdATYlIzLnFgdo2/NCR9oDik2iz+yO9mTbNltAwmv/cDwB9nFM02+GqtAFpSLQ5jIXj4AlrRsa/8DnVsGNsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Daru Okta Buana\\source\\repos\\ResponsiJunpro\\ResponsiJunpro\\ResponsiJunpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Daru Okta Buana\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
